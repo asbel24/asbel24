@@ -61,4 +61,4 @@ Mi experiencia está orientada principalmente al desarrollo backend, con un conj
 
 ### 📫 ¡Conectemos!  
 Si estás buscando colaboración para proyectos backend modernos, ¡me encantaría escuchar tus ideas!  
-No dudes en contactarme a través de mi perfil de GitHub.  
+No dudes en contactarme a través de mi email enriquemaestre20@gmail.com  y perfil de linkedIn : https://www.linkedin.com/in/asbel-maestre-guerra-66303614a/
